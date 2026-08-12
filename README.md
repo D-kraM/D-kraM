@@ -1,10 +1,7 @@
-## 👨‍💻 About Me
+# Hi there, I'm Mark Daniel! 👋
+**Information Systems Graduate | Aspiring Cybersecurity Professional**
 
-- 🛡️ **Aspiring Cybersecurity Professional** with a strong focus on **Blue Team** operations and threat intelligence.
-- 🧩 **Puzzle & Investigation Enthusiast:** I am driven by the challenge of problem-solving, whether it's recognizing complex patterns, hunting for clues in games, or investigating vulnerabilities.
-- 🌐 **Digital Guardian:** Deeply enthusiastic about securing IT infrastructure, maintaining data integrity, and creating a safer internet for everyone.
-- 🚀 **Continuous Learner:** I thrive in an ever-evolving tech landscape and am always excited to embrace new challenges, technologies, and skills.
-- 💻 **Technical Toolkit:** Python, SQL, PHP, HTML, CSS.
+Welcome to my GitHub! I am deeply passionate about securing IT infrastructure, maintaining data integrity, and solving complex puzzles in the digital landscape.
 
 - # 💫 About Me:
 ## 👨‍💻 About Me<br><br>- 🛡️ **Aspiring Cybersecurity Professional** with a strong focus on **Blue Team** operations and threat intelligence.<br>- 🧩 **Puzzle & Investigation Enthusiast:** I am driven by the challenge of problem-solving, whether it's recognizing complex patterns, hunting for clues in games, or investigating vulnerabilities.<br>- 🌐 **Digital Guardian:** Deeply enthusiastic about securing IT infrastructure, maintaining data integrity, and creating a safer internet for everyone.<br>- 🚀 **Continuous Learner:** I thrive in an ever-evolving tech landscape and am always excited to embrace new challenges, technologies, and skills.<br>- 💻 **Technical Toolkit:** Python, SQL, PHP, HTML, CSS.
