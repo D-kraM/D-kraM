@@ -1,7 +1,7 @@
 # Hi there, I'm Mark Daniel! 👋
 **Information Systems Graduate | Aspiring Cybersecurity Professional**
-
---✍️Currently studying Google Cybersecurity --
+--Google Cybersecurity--
+--✍️Currently exploring Purple Kali Linux and SIEM tools--
 
 Welcome to my GitHub! I am deeply passionate about securing IT infrastructure, maintaining data integrity, and solving complex puzzles in the digital landscape.
 
